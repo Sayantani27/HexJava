@@ -1,0 +1,24 @@
+https://github.com/barodvinay22/javatraining
+ 
+git clone  git@github.com:barodvinay22/javatraining.git
+ 
+git status
+ 
+git checkout -b feature/day1
+ 
+git push --set-upstream origin feature/day1
+ 
+git add .
+ 
+git commit
+ 
+git log
+ 
+git push
+ 
+git fetch origin
+ 
+git merge origin main
+ 
+git commit -m 'Update Hello Program'
+ 
